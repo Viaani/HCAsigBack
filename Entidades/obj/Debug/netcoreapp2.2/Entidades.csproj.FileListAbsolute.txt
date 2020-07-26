@@ -1,0 +1,11 @@
+C:\Users\diego\Desktop\Proyecto Tesis\Prototipo 1\HCAsignaturas 0.1.2\HCAsignaturas 0.1.2\Entidades\bin\Debug\netcoreapp2.2\Entidades.deps.json
+C:\Users\diego\Desktop\Proyecto Tesis\Prototipo 1\HCAsignaturas 0.1.2\HCAsignaturas 0.1.2\Entidades\bin\Debug\netcoreapp2.2\Entidades.runtimeconfig.json
+C:\Users\diego\Desktop\Proyecto Tesis\Prototipo 1\HCAsignaturas 0.1.2\HCAsignaturas 0.1.2\Entidades\bin\Debug\netcoreapp2.2\Entidades.runtimeconfig.dev.json
+C:\Users\diego\Desktop\Proyecto Tesis\Prototipo 1\HCAsignaturas 0.1.2\HCAsignaturas 0.1.2\Entidades\bin\Debug\netcoreapp2.2\Entidades.dll
+C:\Users\diego\Desktop\Proyecto Tesis\Prototipo 1\HCAsignaturas 0.1.2\HCAsignaturas 0.1.2\Entidades\bin\Debug\netcoreapp2.2\Entidades.pdb
+C:\Users\diego\Desktop\Proyecto Tesis\Prototipo 1\HCAsignaturas 0.1.2\HCAsignaturas 0.1.2\Entidades\obj\Debug\netcoreapp2.2\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\diego\Desktop\Proyecto Tesis\Prototipo 1\HCAsignaturas 0.1.2\HCAsignaturas 0.1.2\Entidades\obj\Debug\netcoreapp2.2\Entidades.AssemblyInfoInputs.cache
+C:\Users\diego\Desktop\Proyecto Tesis\Prototipo 1\HCAsignaturas 0.1.2\HCAsignaturas 0.1.2\Entidades\obj\Debug\netcoreapp2.2\Entidades.AssemblyInfo.cs
+C:\Users\diego\Desktop\Proyecto Tesis\Prototipo 1\HCAsignaturas 0.1.2\HCAsignaturas 0.1.2\Entidades\obj\Debug\netcoreapp2.2\Entidades.dll
+C:\Users\diego\Desktop\Proyecto Tesis\Prototipo 1\HCAsignaturas 0.1.2\HCAsignaturas 0.1.2\Entidades\obj\Debug\netcoreapp2.2\Entidades.pdb
+C:\Users\diego\Desktop\Proyecto Tesis\Prototipo 1\HCAsignaturas 0.1.2\HCAsignaturas 0.1.2\Entidades\obj\Debug\netcoreapp2.2\Entidades.csprojAssemblyReference.cache

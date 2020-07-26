@@ -1,0 +1,16 @@
+C:\Users\diego\Desktop\Proyecto Tesis\Prototipo 1\HCAsignaturas 0.1.2\HCAsignaturas 0.1.2\Logica\bin\Debug\netcoreapp2.2\Logica.deps.json
+C:\Users\diego\Desktop\Proyecto Tesis\Prototipo 1\HCAsignaturas 0.1.2\HCAsignaturas 0.1.2\Logica\bin\Debug\netcoreapp2.2\Logica.runtimeconfig.json
+C:\Users\diego\Desktop\Proyecto Tesis\Prototipo 1\HCAsignaturas 0.1.2\HCAsignaturas 0.1.2\Logica\bin\Debug\netcoreapp2.2\Logica.runtimeconfig.dev.json
+C:\Users\diego\Desktop\Proyecto Tesis\Prototipo 1\HCAsignaturas 0.1.2\HCAsignaturas 0.1.2\Logica\bin\Debug\netcoreapp2.2\Logica.dll
+C:\Users\diego\Desktop\Proyecto Tesis\Prototipo 1\HCAsignaturas 0.1.2\HCAsignaturas 0.1.2\Logica\bin\Debug\netcoreapp2.2\Logica.pdb
+C:\Users\diego\Desktop\Proyecto Tesis\Prototipo 1\HCAsignaturas 0.1.2\HCAsignaturas 0.1.2\Logica\bin\Debug\netcoreapp2.2\Datos.dll
+C:\Users\diego\Desktop\Proyecto Tesis\Prototipo 1\HCAsignaturas 0.1.2\HCAsignaturas 0.1.2\Logica\bin\Debug\netcoreapp2.2\Entidades.dll
+C:\Users\diego\Desktop\Proyecto Tesis\Prototipo 1\HCAsignaturas 0.1.2\HCAsignaturas 0.1.2\Logica\bin\Debug\netcoreapp2.2\Datos.pdb
+C:\Users\diego\Desktop\Proyecto Tesis\Prototipo 1\HCAsignaturas 0.1.2\HCAsignaturas 0.1.2\Logica\bin\Debug\netcoreapp2.2\Entidades.pdb
+C:\Users\diego\Desktop\Proyecto Tesis\Prototipo 1\HCAsignaturas 0.1.2\HCAsignaturas 0.1.2\Logica\obj\Debug\netcoreapp2.2\Logica.csprojAssemblyReference.cache
+C:\Users\diego\Desktop\Proyecto Tesis\Prototipo 1\HCAsignaturas 0.1.2\HCAsignaturas 0.1.2\Logica\obj\Debug\netcoreapp2.2\Logica.csproj.CoreCompileInputs.cache
+C:\Users\diego\Desktop\Proyecto Tesis\Prototipo 1\HCAsignaturas 0.1.2\HCAsignaturas 0.1.2\Logica\obj\Debug\netcoreapp2.2\Logica.AssemblyInfoInputs.cache
+C:\Users\diego\Desktop\Proyecto Tesis\Prototipo 1\HCAsignaturas 0.1.2\HCAsignaturas 0.1.2\Logica\obj\Debug\netcoreapp2.2\Logica.AssemblyInfo.cs
+C:\Users\diego\Desktop\Proyecto Tesis\Prototipo 1\HCAsignaturas 0.1.2\HCAsignaturas 0.1.2\Logica\obj\Debug\netcoreapp2.2\Logica.csproj.CopyComplete
+C:\Users\diego\Desktop\Proyecto Tesis\Prototipo 1\HCAsignaturas 0.1.2\HCAsignaturas 0.1.2\Logica\obj\Debug\netcoreapp2.2\Logica.dll
+C:\Users\diego\Desktop\Proyecto Tesis\Prototipo 1\HCAsignaturas 0.1.2\HCAsignaturas 0.1.2\Logica\obj\Debug\netcoreapp2.2\Logica.pdb
