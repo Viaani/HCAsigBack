@@ -12,7 +12,7 @@ namespace Datos
         //Abre conexion a la base de datos
         public void AbrirConexion()
         {
-            string connectionString = "datasource=127.0.0.1;port=3306;username=root;password=zwdceeazseda14;database=hcasignaturasMDP;";
+            string connectionString = "datasource=127.0.0.1;port=3306;username=root;password=aaaaaaa;database=hcasignaturasMDP;";
             this.databaseConnection = new MySqlConnection(connectionString);
             this.databaseConnection.Open();
         }
@@ -22,7 +22,7 @@ namespace Datos
         {
             this.databaseConnection.Close();
         }
-        
+
         public void BeginTransaction()
         {
 
